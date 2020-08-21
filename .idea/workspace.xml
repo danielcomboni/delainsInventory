@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Total Mbarara-Rwizi brancch" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fe7a1f1-0eae-47f1-bbde-6b6c9c38299b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="features" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\vyangu\delainsInventory-master\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f5Qsab0r3xa7eIJG3B9YavBivQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite.xerial" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="delains_3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/application" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.delains.ui.test.auto" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.delains.dao.item" />
+      <recent name="com.delains.ui.sales.auto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\vyangu\delainsInventory-master\src\application" />
+      <recent name="E:\vyangu\delainsInventory-master\src\com\delains\ui\item\categories" />
+      <recent name="E:\vyangu\delainsInventory-master\src\com\delains\ui\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AddTextField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.delains.ui.test.field.AddTextField" />
+      <module name="Delains 3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.delains.ui.test.field.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Main" />
+      <module name="Delains 3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgressBarTableCellTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.delains.ui.test.table.ProgressBarTableCellTest" />
+      <module name="Delains 3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.delains.ui.test.table.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableViewEditDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.delains.ui.table.TableViewEditDemo" />
+      <module name="Delains 3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.delains.ui.table.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableViewSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.delains.ui.table.TableViewSample" />
+      <module name="Delains 3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.delains.ui.table.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TableViewSample" />
+        <item itemvalue="Application.TableViewEditDemo" />
+        <item itemvalue="Application.ProgressBarTableCellTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AddTextField" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fe7a1f1-0eae-47f1-bbde-6b6c9c38299b" name="Default Changelist" comment="" />
+      <created>1595505680038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595505680038</updated>
+      <workItem from="1595505700403" duration="14094000" />
+      <workItem from="1595651624461" duration="1813000" />
+      <workItem from="1595659231340" duration="25657000" />
+      <workItem from="1595738021995" duration="20020000" />
+      <workItem from="1595762010351" duration="26084000" />
+      <workItem from="1595865744209" duration="5537000" />
+      <workItem from="1595872190164" duration="13497000" />
+      <workItem from="1595918506587" duration="71011000" />
+      <workItem from="1596089762773" duration="26005000" />
+      <workItem from="1596193583184" duration="17173000" />
+      <workItem from="1596546735654" duration="4765000" />
+      <workItem from="1596613349436" duration="41118000" />
+      <workItem from="1596778023696" duration="8967000" />
+      <workItem from="1596865806401" duration="20735000" />
+      <workItem from="1597047727286" duration="10818000" />
+      <workItem from="1597474718400" duration="35372000" />
+      <workItem from="1597643784759" duration="48214000" />
+      <workItem from="1597723702619" duration="28788000" />
+      <workItem from="1597775996970" duration="260000" />
+      <workItem from="1597776544693" duration="26022000" />
+      <workItem from="1597857139632" duration="2704000" />
+      <workItem from="1597899100918" duration="9437000" />
+      <workItem from="1597921338605" duration="2116000" />
+      <workItem from="1597935326532" duration="10946000" />
+      <workItem from="1597990974453" duration="1853000" />
+    </task>
+    <task id="LOCAL-00001" summary="changes made for total rwizi">
+      <created>1597991712675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597991712675</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes made for total rwizi" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes made for total rwizi" />
+  </component>
+</project>

@@ -1,0 +1,100 @@
+
+.table-view {
+	-fx-background-color:transparent ;
+	-fx-background-image: url("gold8.jpeg");
+/*    -fx-background-image: url("Wallpaper.jpg");
+    -fx-background-size: stretch;
+ */
+/* -my-wash: rgba(255,255,255,.75);*/    
+}
+/*
+.table-view > .column-header-background > .filler {
+    -fx-background-color: -my-wash;
+}
+
+.table-view > .column-header-background > .nested-column-header > .column-header.table-column {
+    -fx-background-color: -my-wash;
+}
+
+ */
+ 
+ .table-view{
+-fx-border-color: rgb(71.0,168.0,77.0);
+-fx-border-width: 5.0;
+}
+
+.table-row-cell{
+-fx-border-color: green ;/*-fx-table-cell-border-color:red;*/
+
+}
+
+.table-view .table-row-cell {
+  -fx-border-width: 0.5;
+}
+
+/* Set the font for the cells */
+.table-row-cell {
+	/*-fx-background-image: url("bg.jpg"); */
+	/*-fx-background-image: url("bright-squares.png"); */
+	-fx-opacity: 0.7 ;
+	-fx-background-color: black    ;
+-fx-font-size: 12.0pt;
+-fx-font-family: Arial;
+-fx-text-fill: blue ;
+-fx-font-smoothing-type: lcd ;
+
+}
+/* Text in the rows will be white */
+.table-row-cell .text {
+       -fx-fill: wheat ;
+       -fx-opacity: 1.0;
+}
+
+	
+
+/* Selected row */
+.table-view:focused .table-row-cell:filled:focused:selected {
+    -fx-background-color: brown;
+    -fx-background-insets: 0.0, 1.0, 2.0;
+    -fx-background: -fx-accent;
+    -fx-text-fill: -fx-selection-bar-text;
+}
+
+/* Selected row when table not focused */
+.table-row-cell:filled:focused:selected {
+    -fx-background-color: red;
+    -fx-background-insets: 0.0, 1.0, 2.0;
+    -fx-background: -fx-accent;
+    -fx-text-fill: -fx-selection-bar-text;
+}
+
+/* Row hovered */
+.table-view:row-selection .table-row-cell:filled:hover {
+    -fx-background-color: green;
+    -fx-background-insets: 0.0, 0.0 0.0 1.0 0.0;
+    -fx-text-fill: -fx-text-inner-color;
+}
+
+/* Selected row hovered */
+.table-view:focused .table-row-cell:filled:focused:selected:hover {
+    -fx-background: -fx-accent;
+    -fx-background-color: yellow;
+    -fx-background-insets: 0.0, 1.0, 2.0;
+    -fx-text-fill: -fx-selection-bar-text;
+}
+
+/* Selected row hovered when table not focused */
+.table-view:row-selection .table-row-cell:filled:focused:hover {
+    -fx-background-color: blue;
+    -fx-background-insets: 0.0, 0.0 0.0 1.0 0.0, 1.0 1.0 2.0 1.0, 2.0 2.0 3.0 2.0, 3.0 3.0 4.0 3.0;
+    -fx-text-fill: -fx-text-inner-color;
+}
+
+
+
+ 
+/* Set the font size and text color for column headers */
+.table-view .column-header .label{
+-fx-font-size: 10.0pt;
+-fx-text-fill: blue;
+}
