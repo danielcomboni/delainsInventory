@@ -7,8 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe7a1f1-0eae-47f1-bbde-6b6c9c38299b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -210,7 +208,7 @@
       <workItem from="1597899100918" duration="9437000" />
       <workItem from="1597921338605" duration="2116000" />
       <workItem from="1597935326532" duration="10946000" />
-      <workItem from="1597990974453" duration="1853000" />
+      <workItem from="1597990974453" duration="2247000" />
     </task>
     <task id="LOCAL-00001" summary="changes made for total rwizi">
       <created>1597991712675</created>
